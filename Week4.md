@@ -96,8 +96,11 @@ If you choose your own design, you are accepting a higher chance of running into
 
 ---
 
-### Here is the pdf of the different designs you can use for your portfolio 
-https://drive.google.com/drive/folders/1H7k41VDEDqAsIxNyj41hMQuN-86erufB?usp=sharing
+### Here is the link of the different designs you can use for your portfolio 
+
+* https://www.figma.com/design/lxZwe9Ki537B88lB7wGVbi/Portfolio|-Personal-Portfolio-|-5---Community-?node-id=0-1&p=f&t=XZwK63T3HnbPDl4U-0
+
+* https://drive.google.com/drive/folders/1H7k41VDEDqAsIxNyj41hMQuN-86erufB?usp=sharing
 
 
 ## What You Are Allowed to Customize
