@@ -96,6 +96,10 @@ If you choose your own design, you are accepting a higher chance of running into
 
 ---
 
+### Here is the pdf of the different designs you can use for your portfolio 
+https://drive.google.com/drive/folders/1H7k41VDEDqAsIxNyj41hMQuN-86erufB?usp=sharing
+
+
 ## What You Are Allowed to Customize
 
 You may customize:
