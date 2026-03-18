@@ -177,6 +177,91 @@ Design Name: [INSERT]
 
 ---
 
+## COLOR SYSTEM (STRICT)
+
+You must implement the color palette as a reusable Tailwind-based design system.
+
+### DO NOT:
+- use default Tailwind colors (e.g. blue-500, gray-100, etc.)
+- you will use the new colors specified below 
+- mix in colors not defined below
+
+---
+## DESIGN SPECIFICATIONS
+
+### Colors
+
+Primary:
+Secondary:
+Accent:
+Background:
+Text:
+Muted:
+Card Background:
+Border:
+
+### Fonts
+
+Heading:
+Body:
+Accent:
+
+---
+### COLOR ROLES
+
+Use these roles consistently across the entire site:
+
+- Primary → main accent color (buttons, highlights, links)
+- Secondary → secondary accents (hover states, subtle emphasis)
+- Accent → small highlights (icons, tags, badges)
+- Background → main page background
+- Card Background → cards, sections, containers
+- Text → primary text color 
+
+---
+
+### TAILWIND IMPLEMENTATION
+
+Define the color palette using Tailwind-compatible classes.
+
+Use these mappings:
+
+- Background → `bg-[color]`
+- Card Background → `bg-[color]`
+- Primary → `text-[color]` or `bg-[color]`
+- Secondary → hover states or subtle UI elements
+- Accent → badges, icons, highlights
+- Text → `text-[color]`
+- Muted → `text-[color]/70` or similar
+- Border → `border-[color]`
+
+---
+
+### USAGE RULES
+
+- All buttons must use **Primary color**
+- All links must use **Primary color**
+- Cards must use **Card Background**
+- Page must use **Background**
+- Body text must use **Text**
+- Secondary text must use **Muted**
+- Borders must use **Border**
+
+Do not deviate from this system.
+
+---
+
+### EXAMPLE (REFERENCE ONLY)
+
+If Primary = #4F46E5:
+
+- Button → `bg-[#4F46E5] text-white`
+- Link → `text-[#4F46E5]`
+- Badge → `bg-[#4F46E5]/10 text-[#4F46E5]`
+
+Follow this pattern for all colors.
+
+
 ## REQUIRED SECTION ORDER
 
 1. [INSERT]
@@ -269,26 +354,7 @@ If data is missing:
 
 ---
 
-## DESIGN SPECIFICATIONS
 
-### Colors
-
-Primary:
-Secondary:
-Accent:
-Background:
-Text:
-Muted:
-Card Background:
-Border:
-
-### Fonts
-
-Heading:
-Body:
-Accent:
-
----
 
 ## TECH STACK
 
