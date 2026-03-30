@@ -33,6 +33,7 @@ RESEND_FROM_EMAIL=your_verified_sender_email
 ```
 
 ⚠️ Do NOT commit `.env.local` to GitHub
+make sure that you put .env.local and .env in the .gitignore file that is provided. This is so that our git version controller does not track your private api keys
 
 ---
 
